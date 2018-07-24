@@ -1,4 +1,3 @@
-# Tutorial - express / parcel / react
 <h1 align="center">Express, parcel and react starter.</h1>
 
 <h4 align="center">
